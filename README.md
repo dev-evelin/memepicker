@@ -18,7 +18,8 @@ https://user-images.githubusercontent.com/107203586/203866887-2cc98cbc-5eb0-4664
 
 ## Links
 
-- Live Site URL: [https://dev-evelin-memepicker.netlify.app/](https://your-live-site-url.com)
+- Live Site URL: [https://dev-evelin-memepicker.netlify.app]
+/(https://your-live-site-url.com)
 
 ## Built with
 
